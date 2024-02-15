@@ -1,1 +1,1 @@
-The project includes
+The project includes such entities as book,author,user. This project might help for book shop. Thus, every book can be priced as well as can have discount. As regards Users they have their balances.Unfortunetly, selling/buying feature is missing for now.  
